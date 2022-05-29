@@ -1,1 +1,3 @@
-In 2014 Home Depot had a major data breach.  Hackers accessed payment card data belonging to 40 million customers. 
+In 2014 Home Depot had a major data breach.  Hackers accessed payment card data belonging to 40 million customers.  It specifically targeted customers who used the self-checkout terminals.  The hackers used a vendor's username and password to gain access to Home Depot's network, they then deployed a custom built malware to access customers card information. 
+Since the breach Home Depot has hired a Chief Information Security Officer, and upgraded it's security procedures and training. 
+The breach was reported to cost the company $198 million of pretax expenses. 
